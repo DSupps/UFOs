@@ -29,22 +29,27 @@ The user can filter by event date they choose. In the box underneath "Enter Date
 
 ### Filter by city:
 The user can filter by city they choose.  In the box underneath "Enter the City", the user can input any city available in the data city and just the events that occurred in that city will display. Here the user has chosen the city of Port St.Lucie.
+
 ![city](https://user-images.githubusercontent.com/36451701/124338159-5beed480-db74-11eb-83f1-285bf31e71b7.png)
 
 ### Filter by state:
 The user can filter by state.  In the box underneath "Enter a State", the user can input any state available in the data and just the events that occurred in that state will display.  Here the user has chosen Florida. 
+
 ![state](https://user-images.githubusercontent.com/36451701/124338246-c142c580-db74-11eb-80ca-bca6f9c8b6ba.png)
 
 ### Filter by country:
 The user can filter by country.  In the box underneath "Enter a Country", the user can input any country available in the data and just the events that occurred in that country will display.  Here the user has chosen the US.
+
 ![country](https://user-images.githubusercontent.com/36451701/124338180-7163fe80-db74-11eb-92e3-0e1f83ee6eff.png)
 
 ### Filter by shape:
 The user can filter by shape. In the box underneath "Enter a Shape", the user can input any shape of object available in the data and just the events that contain that shape will display.  Here the user has chosen the shape of a spehere. 
+
 ![shape](https://user-images.githubusercontent.com/36451701/124338188-7cb72a00-db74-11eb-8fd4-60e5526f4cf9.png)
 
 ### Filter on multiple criteria:
 The user can also filter on multiple criteria.  The can choose up to five multiple criteria.  
+
 ![multiple](https://user-images.githubusercontent.com/36451701/124338210-8f316380-db74-11eb-9cf4-1d409475b5f2.png)
 
 
