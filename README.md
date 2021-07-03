@@ -27,24 +27,24 @@ The user can filter by event date.
 
 ![date](https://user-images.githubusercontent.com/36451701/124338146-45487d80-db74-11eb-9860-ff76cca31a5b.png)
 
-### Filter by city
+### Filter by city:
 The user can filter by city.
 ![city](https://user-images.githubusercontent.com/36451701/124338159-5beed480-db74-11eb-83f1-285bf31e71b7.png)
 
-### Filter by state
+### Filter by state:
 The user can filter by state.
 ![state](https://user-images.githubusercontent.com/36451701/124338246-c142c580-db74-11eb-80ca-bca6f9c8b6ba.png)
 
 
-### Filter by country
+### Filter by country:
 The user can filter by country.
 ![country](https://user-images.githubusercontent.com/36451701/124338180-7163fe80-db74-11eb-92e3-0e1f83ee6eff.png)
 
-### Filter by shape
+### Filter by shape:
 The user can filter by shape. 
 ![shape](https://user-images.githubusercontent.com/36451701/124338188-7cb72a00-db74-11eb-8fd4-60e5526f4cf9.png)
 
-### Filter on multiple criteria
+### Filter on multiple criteria:
 The user can filter from specific criteris up all five if they wish. 
 ![multiple](https://user-images.githubusercontent.com/36451701/124338210-8f316380-db74-11eb-9cf4-1d409475b5f2.png)
 
