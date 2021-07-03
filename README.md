@@ -18,7 +18,7 @@
     - BootStrap 4.4
    
 ## Challenge Results:
-
+The index landing page is interactive with the ability to filter search results by date, city, state, country, and shape. The user can choose one up to all five filters at once.
 <img width="1280" alt="index1" src="https://user-images.githubusercontent.com/36451701/124338132-306bea00-db74-11eb-80f0-c545c5c5a8aa.png">
 
 ### Filter by date
