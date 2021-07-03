@@ -58,6 +58,6 @@ The UFO Sightings: Fact or Fancy? is now a dynamic webpage that provides users w
 
 There is one obvious drawback to the site.  The user must know the exact filter search text formats to pull up the data they are looking for. If the wrong format is used, the table will not display the specific data the user is looking for. 
 
-One recommendation would be the ability for search to work using upper or lower case text.  Currently, if the user types in "AZ" instead of "az" for the state of Arizona, nothing will come up.  The user might mistake the empty results and think nothing is available for Arizona even though there are multiple events that show up when "az" typed in. 
+One recommendation would be the ability for search to work using upper or lower case text.  Currently, if the user types in "AZ" instead of "az" for the state of Arizona, nothing will come up.  The user might mistake the empty results and think nothing is available for Arizona even though there are multiple events that show up when "az" is typed in. 
 
 Another recommendation would be the functionality for the user to downloand the dataset at the click of a button. 
