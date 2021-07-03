@@ -31,7 +31,8 @@
 
 ### Filter by state
 
-![state](https://user-images.githubusercontent.com/36451701/124338171-69a45a00-db74-11eb-92ad-f060b4dfe73a.png)
+![state](https://user-images.githubusercontent.com/36451701/124338246-c142c580-db74-11eb-80ca-bca6f9c8b6ba.png)
+
 
 ### Filter by country
 
