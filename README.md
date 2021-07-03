@@ -56,8 +56,8 @@ The user can also filter on multiple criteria.  The can choose up to five multip
 ## Challenge Summary:
 The UFO Sightings: Fact or Fancy? is now a dynamic webpage that provides users with data about UFO sightings and the ability to create specific search criteria if they so choose.  To get back to the default filter search, all the user has to do is clear the search criteria and hit return or refresh the page. 
 
-There is one drawback to the site.  The user must know the exact filter search text formats to pull up the data they are looking for. If the wrong format is used the table will not display the specific data the user is looking for. 
+There is one obvious drawback to the site.  The user must know the exact filter search text formats to pull up the data they are looking for. If the wrong format is used, the table will not display the specific data the user is looking for. 
 
-One recommendation would be the ability for search to work using upper or lower case text.  Currently, the user could type in "AZ" instead of "az" for the state of Arizona and nothing would come up.  The user might mistake the empty results and think nothing is available for Arizona when in fact there multiple events but only show up with "az" typed in. 
+One recommendation would be the ability for search to work using upper or lower case text.  Currently, if the user types in "AZ" instead of "az" for the state of Arizona, nothing will come up.  The user might mistake the empty results and think nothing is available for Arizona, when in fact, there are multiple events that only show up when "az" typed in. 
 
 Another recommendation would be the functionality for the user to downloand the dataset at the click of a button. 
