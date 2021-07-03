@@ -21,5 +21,30 @@
 
 <img width="1280" alt="index1" src="https://user-images.githubusercontent.com/36451701/124338132-306bea00-db74-11eb-80f0-c545c5c5a8aa.png">
 
+### Filter by date
+
+![date](https://user-images.githubusercontent.com/36451701/124338146-45487d80-db74-11eb-9860-ff76cca31a5b.png)
+
+### Filter by city
+
+![city](https://user-images.githubusercontent.com/36451701/124338159-5beed480-db74-11eb-83f1-285bf31e71b7.png)
+
+### Filter by state
+
+![state](https://user-images.githubusercontent.com/36451701/124338171-69a45a00-db74-11eb-92ad-f060b4dfe73a.png)
+
+### Filter by country
+
+![country](https://user-images.githubusercontent.com/36451701/124338180-7163fe80-db74-11eb-92e3-0e1f83ee6eff.png)
+
+### Filter by shape
+
+![shape](https://user-images.githubusercontent.com/36451701/124338188-7cb72a00-db74-11eb-8fd4-60e5526f4cf9.png)
+
+### Filter on multiple criteria
+
+![multiple](https://user-images.githubusercontent.com/36451701/124338210-8f316380-db74-11eb-9cf4-1d409475b5f2.png)
+
+
 
 ## Challenge Summary:
