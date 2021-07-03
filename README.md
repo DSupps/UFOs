@@ -22,31 +22,34 @@ The index landing page is interactive with the ability to filter search results 
 
 <img width="1280" alt="index1" src="https://user-images.githubusercontent.com/36451701/124338132-306bea00-db74-11eb-80f0-c545c5c5a8aa.png">
 
-### Filter by date
+### Filter by date:
+The user can filter by event date. 
 
 ![date](https://user-images.githubusercontent.com/36451701/124338146-45487d80-db74-11eb-9860-ff76cca31a5b.png)
 
 ### Filter by city
-
+The user can filter by city.
 ![city](https://user-images.githubusercontent.com/36451701/124338159-5beed480-db74-11eb-83f1-285bf31e71b7.png)
 
 ### Filter by state
-
+The user can filter by state.
 ![state](https://user-images.githubusercontent.com/36451701/124338246-c142c580-db74-11eb-80ca-bca6f9c8b6ba.png)
 
 
 ### Filter by country
-
+The user can filter by country.
 ![country](https://user-images.githubusercontent.com/36451701/124338180-7163fe80-db74-11eb-92e3-0e1f83ee6eff.png)
 
 ### Filter by shape
-
+The user can filter by shape. 
 ![shape](https://user-images.githubusercontent.com/36451701/124338188-7cb72a00-db74-11eb-8fd4-60e5526f4cf9.png)
 
 ### Filter on multiple criteria
-
+The user can filter from specific criteris up all five if they wish. 
 ![multiple](https://user-images.githubusercontent.com/36451701/124338210-8f316380-db74-11eb-9cf4-1d409475b5f2.png)
 
 
-
 ## Challenge Summary:
+The UFO Sightings: Fact or Fancy? is now a dynamic webpage that provides users with data about UFO sightings and the ability to create specific search criteria if they so choose.  To get back to the default filter search, all the user has to do is clear the search criteria and hit return or refresh the page. 
+
+However, there is one drawback to the site.  The user must know the exact filter search text formats to pull up the data they are looking for. If the wrong format is used the table will not display the specific data the user is looking for. 
