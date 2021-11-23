@@ -22,7 +22,7 @@ This project focuses on building a dynamic webpage that accepts user inputs and 
     - BootStrap 4.4
    
 ## Project Results:
-### Link to UFO Sightings webpage - 
+### Link to UFO Sightings webpage - [https://dsupps.github.io/UFOs/](https://dsupps.github.io/UFOs/)
 
 The index landing page is interactive and has the ability to filter search results by date, city, state, country, and/or shape. The user can choose one up to all five filters at once.
 
