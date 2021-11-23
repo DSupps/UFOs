@@ -1,6 +1,7 @@
 # UFOs
+![ufo](https://user-images.githubusercontent.com/36451701/143145116-1d5e0162-65b8-4c0f-93fa-287d327d34f4.png)
 
-## Challenge Overview:
+## Project Overview:
 *The challenge is to provide a more in-depth analysis of UFO sightings data by allowing users to filter by multiple criteria.  The data is difficult to analyze when viewing it in its complete form on the webpage.  Adding multiple filtering criteria will allow the user to narrow down their search results.  To accomplish this, additional filters for city, state, country, and shape will need to be created using JavaScript, HTML, and bootstrap.  The end result will be a dynamic webpage with UFO sighting data that user can narrow down to their specific search criteria.*
 
 ### What I'm creating:
