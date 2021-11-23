@@ -2,13 +2,16 @@
 ![ufo](https://user-images.githubusercontent.com/36451701/143145116-1d5e0162-65b8-4c0f-93fa-287d327d34f4.png)
 
 ## Project Overview:
+This project focuses on building a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFO sightings.
+
+### Project Challenge:
 *The challenge is to provide a more in-depth analysis of UFO sightings data by allowing users to filter by multiple criteria.  The data is difficult to analyze when viewing it in its complete form on the webpage.  Adding multiple filtering criteria will allow the user to narrow down their search results.  To accomplish this, additional filters for city, state, country, and shape will need to be created using JavaScript, HTML, and bootstrap.  The end result will be a dynamic webpage with UFO sighting data that user can narrow down to their specific search criteria.*
 
 ### What I'm creating:
 1. Deliverable 1: Filter UFO Sightings on multiple criteria
 2. Deliverable 2: A written report on the UFO analysis
 
-### Resources:
+### Project Resources:
 - Data Sources: UFO sighting data provided
 
 - Software:
@@ -18,7 +21,7 @@
     - Visual Studio Code 1.57.1
     - BootStrap 4.4
    
-## Challenge Results:
+## Project Results:
 The index landing page is interactive and has the ability to filter search results by date, city, state, country, and/or shape. The user can choose one up to all five filters at once.
 
 <img width="1280" alt="index1" src="https://user-images.githubusercontent.com/36451701/124338132-306bea00-db74-11eb-80f0-c545c5c5a8aa.png">
